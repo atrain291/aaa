@@ -46,4 +46,7 @@
       <HintPath>..\..\..\thirdparty\tools\NUnit\nunit.framework.dll</HintPath>
     </Reference>
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Test.cs" />
+  </ItemGroup>
 </Project>
