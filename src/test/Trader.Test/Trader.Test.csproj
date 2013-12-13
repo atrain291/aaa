@@ -41,4 +41,9 @@
       <Name>Trader.UI</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework">
+      <HintPath>..\..\..\thirdparty\tools\NUnit\nunit.framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>

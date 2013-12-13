@@ -18,6 +18,10 @@ namespace TraderUI
 		{
 			int number = 0;
 		}
+		public ActionResult Help()
+		{
+			return RedirectToAction ("Help");
+		}
 
 	}
 }
