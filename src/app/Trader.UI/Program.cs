@@ -7,10 +7,17 @@ namespace TraderUI
 	{
 		public static void Main (string[] args)
 		{
+			//Hello
 			Application.Init ();
 			MainWindow win = new MainWindow ();
 			win.Show ();
 			Application.Run ();
 		}
+
+		private void Test ()
+		{
+			int number = 0;
+		}
+
 	}
 }
