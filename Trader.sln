@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trader.Core", "src\app\Trad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trader.UI", "src\app\Trader.UI\Trader.UI.csproj", "{C5013292-529D-421F-8F64-3E4FB768CA61}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "thirdparty", "thirdparty", "{1897FF73-6CE6-4630-8F0B-EC549977F7C5}"
+	ProjectSection(MonoDevelopProperties) = preProject
+		BaseDirectory = thirdparty
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +30,8 @@ Global
 		{CA19237E-16E9-41C1-B4CC-BF42923D2A81}.Debug|x86.Build.0 = Debug|Any CPU
 		{CA19237E-16E9-41C1-B4CC-BF42923D2A81}.Release|x86.ActiveCfg = Release|Any CPU
 		{CA19237E-16E9-41C1-B4CC-BF42923D2A81}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = src\app\Trader.UI\Trader.UI.csproj
