@@ -16,7 +16,6 @@ namespace Trader.Test
 		}
 
 		[Test]
-
 		public bool EngineCountEqualsThree()
 		{
 			return Test.Equals (_engine.Count, 3);
