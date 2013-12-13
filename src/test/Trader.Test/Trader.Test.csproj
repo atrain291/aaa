@@ -6,7 +6,7 @@
     <ProductVersion>12.0.0</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{A53F432B-EC72-4414-B1FA-F1F77D6ADB76}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <RootNamespace>Trader.Test</RootNamespace>
     <AssemblyName>Trader.Test</AssemblyName>
   </PropertyGroup>

@@ -27,6 +27,6 @@ Global
 		{CA19237E-16E9-41C1-B4CC-BF42923D2A81}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = src\test\Trader.Test\Trader.Test.csproj
+		StartupItem = src\app\Trader.UI\Trader.UI.csproj
 	EndGlobalSection
 EndGlobal
