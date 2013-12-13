@@ -5,6 +5,8 @@ namespace TraderUI
 {
 	class MainClass
 	{
+		delegate void run1();
+		run1 t;
 		public static void Main (string[] args)
 		{
 			//Hello
@@ -18,9 +20,10 @@ namespace TraderUI
 		{
 			int number = 0;
 		}
-		public ActionResult Help()
+		public void Queue(int Number)
 		{
-			return RedirectToAction ("Help");
+			for (int i = 0; i < Number; i++) {
+			}
 		}
 
 	}
