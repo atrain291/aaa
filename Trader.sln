@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trader.Test", "src\test\Trader.Test\Trader.Test.csproj", "{A53F432B-EC72-4414-B1FA-F1F77D6ADB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trader.Core", "src\app\Trader.Core\Trader.Core.csproj", "{CA19237E-16E9-41C1-B4CC-BF42923D2A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trader.UI", "src\app\Trader.UI\Trader.UI.csproj", "{C5013292-529D-421F-8F64-3E4FB768CA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53F432B-EC72-4414-B1FA-F1F77D6ADB76}.Debug|x86.ActiveCfg = Debug|x86
+		{A53F432B-EC72-4414-B1FA-F1F77D6ADB76}.Debug|x86.Build.0 = Debug|x86
+		{A53F432B-EC72-4414-B1FA-F1F77D6ADB76}.Release|x86.ActiveCfg = Release|x86
+		{A53F432B-EC72-4414-B1FA-F1F77D6ADB76}.Release|x86.Build.0 = Release|x86
+		{C5013292-529D-421F-8F64-3E4FB768CA61}.Debug|x86.ActiveCfg = Debug|x86
+		{C5013292-529D-421F-8F64-3E4FB768CA61}.Debug|x86.Build.0 = Debug|x86
+		{C5013292-529D-421F-8F64-3E4FB768CA61}.Release|x86.ActiveCfg = Release|x86
+		{C5013292-529D-421F-8F64-3E4FB768CA61}.Release|x86.Build.0 = Release|x86
+		{CA19237E-16E9-41C1-B4CC-BF42923D2A81}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CA19237E-16E9-41C1-B4CC-BF42923D2A81}.Debug|x86.Build.0 = Debug|Any CPU
+		{CA19237E-16E9-41C1-B4CC-BF42923D2A81}.Release|x86.ActiveCfg = Release|Any CPU
+		{CA19237E-16E9-41C1-B4CC-BF42923D2A81}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = src\test\Trader.Test\Trader.Test.csproj
+	EndGlobalSection
+EndGlobal
