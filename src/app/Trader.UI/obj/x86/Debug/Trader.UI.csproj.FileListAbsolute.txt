@@ -1,0 +1,7 @@
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.UI\bin\Debug\TraderUI.exe
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.UI\bin\Debug\TraderUI.pdb
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.UI\bin\Debug\Trader.Core.dll
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.UI\bin\Debug\Trader.Core.pdb
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.UI\obj\x86\Debug\Trader.UI.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.UI\obj\x86\Debug\TraderUI.exe
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.UI\obj\x86\Debug\TraderUI.pdb

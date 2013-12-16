@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.Core\bin\Debug\Trader.Core.dll
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.Core\bin\Debug\Trader.Core.pdb
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.Core\obj\Debug\Trader.Core.dll
+C:\Users\Alex\Documents\Projects\atrain291\aaa.git\src\app\Trader.Core\obj\Debug\Trader.Core.pdb
